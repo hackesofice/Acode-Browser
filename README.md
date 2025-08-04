@@ -1,7 +1,5 @@
 # Desclaimer
 
-> warning its a useless browser and you might going to waste your money.
-
 This is a kind of mini browser, A Developer needs to surf over internet to gethare information, for now theres no easy way to surf in the acode app so we created this as an solution. we are working to make it more and more capeble
 
 > Warning !
