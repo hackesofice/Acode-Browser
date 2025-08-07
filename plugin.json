@@ -1,8 +1,8 @@
 {
-  "id":"hackesofice.brouser",
+  "id":"hackesofice.browser",
   "name":"browser",
   "main":"main.js",
-  "version":"1.0.1",
+  "version":"1.0.0",
   "readme":"README.md",
   "icon":"icon.png",
   "files":[],
