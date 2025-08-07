@@ -3,9 +3,14 @@
 This is a kind of mini browser, A Developer needs to surf over internet to gethare information, for now theres no easy way to surf in the acode app so we created this as an solution. we are working to make it more and more capeble
 
 > Warning !
+> it usages proxey server.
+> we don't collect any kind of data.
+> all search related traffic goes through our proxey server but we didn't track whats on requests.
 > for now its not much usefull work is still in progress soon well provide a major update of it
 
+# PARTIALITY
 
+This plugin is fully open-souce at https://github.com/hackesofice/Acode-Browser.git if you wanted to check source, feel free regarding it.
 
 # installation steps
 
@@ -68,6 +73,7 @@ If you tap on this icon your any opend any page will be closed and youll see a d
 
 
 `note`
+> this plugin is fully open-source at <a href="https://github.com/hackesofice/Acode-Browser.git"> hear </a>
 > if you have any concerns about it plese open a issue on github page we will do our best to resolve the issue
 
 # Contributions

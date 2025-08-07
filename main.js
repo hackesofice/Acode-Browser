@@ -9,7 +9,7 @@
     }
 
 var e = {
-      "id":"hackesofice.browser"
+      "id":"hackesofice.brouser"
     }
     
     class browser {
