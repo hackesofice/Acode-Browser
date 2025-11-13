@@ -486,7 +486,10 @@ var e = {
                               toast('Please search or type url', 3000);
                               return;
                             }else{
-                              if(!inputQuery.includes('.')){
+                              if (inputQuery.includes('localhost:') | (inputQuery.includes('127.0.0.1:'))){
+                                web_screen.src = inputQuery
+                              }
+                              else if(!inputQuery.includes('.')){
                                 url = `https://google.com/search?q=${inputQuery}`;
                                 web_screen.src = `${base_proxey_url}${encodeURIComponent(url)}`;
                               }else{
